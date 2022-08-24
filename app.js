@@ -1,0 +1,1 @@
+alert("alerta desde app.js");
